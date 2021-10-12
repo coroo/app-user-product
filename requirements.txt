@@ -1,0 +1,17 @@
+fastapi
+requests
+async-exit-stack 
+async-generator
+python-dotenv
+sqlalchemy
+pymysql
+pytest
+pytest-cov
+uvicorn
+faker
+cryptography==3.3.2
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+alembic
+aiofiles
